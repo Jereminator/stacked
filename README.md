@@ -1,15 +1,4 @@
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jereminator</title>
-</head>
-<body>
-    <h1>Privacy Policy for Stacked
-
 Effective Date: 3/26/2025
 
 Thank you for choosing to play Stacked. We respect your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and disclose information when you play the Game, and how we work to protect your information.
@@ -44,5 +33,3 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 7. Contact Us
 If you have any questions about this Privacy Policy or the Game, please contact us at jeremybastin6655@gmail.com</h1>
-</body>
-</html>
